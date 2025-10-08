@@ -8,32 +8,18 @@ Welcome! I'm **Mika Revedezo**, a passionate UI/UX designer & developer who craf
 
 ---
 
-## 🎨 Top Skills
+## 🌼 Soft Skills
 
-<table align="center">
-<tr>
-<td align="center" width="33%">
-  
-💻 **Development**  
-Next.js • Vue.js • Laravel • Flutter  
-TypeScript • Node.js • PHP • MySQL  
+| Creativity 🌸 | Problem-Solving 🧠 | Time Management ⏰ | Adaptability 🌈 |
+| :------------: | :----------------: | :----------------: | :--------------: |
 
-</td>
-<td align="center" width="33%">
+---
 
-🎨 **Design Tools**  
-Figma • Adobe Creative Suite • Webflow • Framer  
+## 🛠️ Languages & Tools
 
-</td>
-<td align="center" width="33%">
-
-🌼 **Soft Skills**  
-Creativity 🌸 • Problem-Solving 🧠  
-Time Management ⏰ • Adaptability 🌈  
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,cpp,nodejs,nextjs,vue,laravel,flutter,mysql,figma,ps,ai,xd,webflow,framer,git,github,vscode,tailwind" alt="Languages and Tools" />
+</p>
 
 ---
 
@@ -44,13 +30,13 @@ Time Management ⏰ • Adaptability 🌈
     <img src="https://img.shields.io/badge/LinkedIn-548241?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://revedezoalliah-portfolio.my.canva.site/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-969b94?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-728C69?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.behance.net/revedezalliah" target="_blank">
     <img src="https://img.shields.io/badge/Behance-516249?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/>
   </a>
   <a href="mailto:revedezoalliah@gmail.com">
-    <img src="https://img.shields.io/badge/Email-DAB483?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-97A97C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
