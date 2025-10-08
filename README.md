@@ -1,6 +1,6 @@
-# 🐾 Revedezo Alliah — UI/UX Designer & Developer
+# 🐾 Mika Revedezo — UI/UX Designer & Developer
 
-Welcome! I'm Revedezo Alliah, a passionate UI/UX designer & developer who crafts functional, user-centered, and visually delightful digital experiences. My work brings together creativity, purposeful design, and clean code—always with a sprinkle of feline-inspired charm. 🐱✨
+Welcome! I'm Mika Revedezo, a passionate UI/UX designer & developer who crafts functional, user-centered, and visually delightful digital experiences. My work brings together creativity, purposeful design, and clean code—always with a sprinkle of feline-inspired charm. 🐱✨
 
 ---
 
@@ -11,11 +11,12 @@ Welcome! I'm Revedezo Alliah, a passionate UI/UX designer & developer who crafts
 - TypeScript | Node.js | PHP | MySQL
 
 **Design Tools**
-- Figma | Adobe Creative Suite | Webflow | Framer
+- Figma | Adobe Creative Suite | Webflow | Framer | Canva 
 
 **Core Skills**
 - HTML | CSS | JavaScript
-- Tailwind CSS | Bootstrap
+- Tailwind CSS
+- UI/UX Designing | Graphic & Visual Designing
 
 **Soft Skills**
 - Creativity 🌼
@@ -30,7 +31,6 @@ Welcome! I'm Revedezo Alliah, a passionate UI/UX designer & developer who crafts
 - 💼 [LinkedIn](#)
 - 🌸 [Portfolio](#)
 - 🎨 [Behance](#)
-- 💻 [GitHub](#)
 
 ---
 
