@@ -102,14 +102,6 @@ Welcome! I'm **Mika Revedezo**, a passionate UI/UX designer & developer who craf
 - Passionate about learning new technologies and continuously improving user experiences 🌈  
 - Enjoy creating clean, responsive, and user-friendly interfaces 💻  
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kinamika&show_icons=true&theme=vue-dark&hide_border=true&icon_color=8bc34a&title_color=aee571&text_color=cfd8dc" alt="Mika's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinamika&layout=compact&theme=vue-dark&hide_border=true&title_color=aee571&text_color=cfd8dc" alt="Top Languages" height="165"/>
-</p>
 
 ---
 <p align="center">
