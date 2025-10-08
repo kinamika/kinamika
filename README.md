@@ -2,9 +2,9 @@
   <img src="https://raw.githubusercontent.com/kinamika/kinamika/refs/heads/main/banner.png" alt="Mika Revedezo Banner" width="100%">
 </p>
 
-# 🐾 Revedezo Alliah — UI/UX Designer & Developer
+# 🐾 Mika Revedezo — UI/UX Designer & Developer
 
-Welcome! I'm Revedezo Alliah, a passionate UI/UX designer & developer who crafts functional, user-centered, and visually delightful digital experiences. My work brings together creativity, purposeful design, and clean code—always with a sprinkle of feline-inspired charm. 🐱✨
+Welcome! I'm Mika Revedezo, a passionate UI/UX designer & developer who crafts functional, user-centered, and visually delightful digital experiences. My work brings together creativity, purposeful design, and clean code—always with a sprinkle of feline-inspired charm. 🐱✨
 
 ---
 
