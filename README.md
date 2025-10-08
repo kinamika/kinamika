@@ -16,9 +16,9 @@
   </a>
 </p>
 
-# 🐾 Mika Revedezo — UI/UX Designer & Developer
+# 🐾 Mika Revedezo | UI/UX Designer & Developer
 
-Welcome! I'm **Mika Revedezo**, a passionate UI/UX designer & developer who crafts functional, user-centered, and visually delightful digital experiences. My work blends creativity, purposeful design, and clean code—always with a sprinkle of feline-inspired charm. 🐱✨
+Welcome! I'm **Mika Revedezo**, a passionate UI/UX designer & developer who crafts functional, user-centered, and visually delightful digital experiences. My work blends creativity, purposeful design, and clean code, always with a sprinkle of feline-inspired charm. 🐱✨
 
 ---
 
