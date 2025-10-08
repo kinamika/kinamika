@@ -12,6 +12,8 @@ Welcome! I'm **Mika Revedezo**, a passionate UI/UX designer & developer who craf
 
 | Creativity 🌸 | Problem-Solving 🧠 | Time Management ⏰ | Adaptability 🌈 |
 | :------------: | :----------------: | :----------------: | :--------------: |
+| Collaboration 🤝 | Communication 💬 | Attention to Detail 🔍 | Leadership 💡 |
+| Self-Learning 📚 | Critical Thinking 🎯 | Accountability ✅ | Open-Mindedness 🌷 |
 
 ---
 
