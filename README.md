@@ -10,9 +10,7 @@ Welcome! I'm **Mika Revedezo**, a passionate UI/UX designer & developer who craf
 
 ## 🌼 Soft Skills
 
-## 🌼 Soft Skills
-
-| Creativity 🌸 | Problem-Solving 🧠 | Time Management ⏰ | Adaptability 🌈 | Collaboration 🤝 | Communication 💬 |
+| 🌸 Creativity | 🧠 Problem-Solving | ⏰ Time Management | 🌈 Adaptability | 🤝 Collaboration | 💬 Communication |
 | :------------: | :----------------: | :----------------: | :--------------: | :---------------: | :---------------: |
 
 ---
