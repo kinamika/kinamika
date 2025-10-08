@@ -44,13 +44,13 @@ Time Management ⏰ • Adaptability 🌈
     <img src="https://img.shields.io/badge/LinkedIn-228B22?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://revedezoalliah-portfolio.my.canva.site/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-32CD32?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-969b94?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.behance.net/revedezalliah" target="_blank">
-    <img src="https://img.shields.io/badge/Behance-2E8B57?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/>
+    <img src="https://img.shields.io/badge/Behance-516249?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/>
   </a>
   <a href="mailto:revedezoalliah@gmail.com">
-    <img src="https://img.shields.io/badge/Email-3CB371?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-DAB483?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
