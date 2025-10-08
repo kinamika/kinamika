@@ -17,37 +17,79 @@ Welcome! I'm **Mika Revedezo**, a passionate UI/UX designer & developer who craf
 
 ## 🛠️ Languages & Tools
 
-### 💬 **Languages**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,cpp" alt="Languages" />
-</p>
-
----
-
-### ⚙️ **Frameworks & Libraries**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,vue,react,laravel,nodejs,flutter,tailwind,bootstrap" alt="Frameworks & Libraries" />
-</p>
-
----
-
-### 🎨 **Design Tools**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,ps,ai,xd,webflow,framer" alt="Design Tools" />
-</p>
-
----
-
-### 🗄️ **Databases**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres" alt="Databases" />
-</p>
-
----
-
-### 🧰 **Other Tools**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Other Tools" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML" height="48" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS" height="48" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="48" />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" height="48" />
+  </a>
+  <a href="https://www.php.net/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=php" alt="PHP" height="48" />
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python" alt="Python" height="48" />
+  </a>
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=cpp" alt="C++" height="48" />
+  </a>
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="48" />
+  </a>
+  <a href="https://nextjs.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" height="48" />
+  </a>
+  <a href="https://vuejs.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" height="48" />
+  </a>
+  <a href="https://laravel.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" height="48" />
+  </a>
+  <a href="https://flutter.dev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" height="48" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="48" />
+  </a>
+  <a href="https://www.postman.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=postman" alt="Postman" height="48" />
+  </a>
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=figma" alt="Figma" height="48" />
+  </a>
+  <a href="https://www.adobe.com/ph_en/products/photoshop.html" target="_blank">
+    <img src="https://skillicons.dev/icons?i=ps" alt="Photoshop" height="48" />
+  </a>
+  <a href="https://www.adobe.com/products/illustrator.html" target="_blank">
+    <img src="https://skillicons.dev/icons?i=ai" alt="Illustrator" height="48" />
+  </a>
+  <a href="https://www.adobe.com/products/xd.html" target="_blank">
+    <img src="https://skillicons.dev/icons?i=xd" alt="Adobe XD" height="48" />
+  </a>
+  <a href="https://webflow.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=webflow" alt="Webflow" height="48" />
+  </a>
+  <a href="https://www.framer.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=framer" alt="Framer" height="48" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" height="48" />
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="48" />
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" height="48" />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" height="48" />
+  </a>
 </p>
 
 ---
