@@ -10,32 +10,30 @@ Welcome! I'm **Mika Revedezo**, a passionate UI/UX designer & developer who craf
 
 ## 🎨 Top Skills
 
-<p align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%" style="background: rgba(255, 255, 255, 0.15); backdrop-filter: blur(10px); border-radius: 15px; padding: 15px; box-shadow: 0 4px 30px rgba(0,0,0,0.1); border: 1px solid rgba(255, 255, 255, 0.3);">
+<table align="center">
+<tr>
+<td align="center" width="33%">
+  
+💻 **Development**  
+Next.js • Vue.js • Laravel • Flutter  
+TypeScript • Node.js • PHP • MySQL  
 
-      💻 <b>Development</b><br>
-      Next.js • Vue.js • Laravel • Flutter<br>
-      TypeScript • Node.js • PHP • MySQL
+</td>
+<td align="center" width="33%">
 
-      </td>
-      <td align="center" width="33%" style="background: rgba(255, 255, 255, 0.15); backdrop-filter: blur(10px); border-radius: 15px; padding: 15px; box-shadow: 0 4px 30px rgba(0,0,0,0.1); border: 1px solid rgba(255, 255, 255, 0.3);">
+🎨 **Design Tools**  
+Figma • Adobe Creative Suite • Webflow • Framer  
 
-      🎨 <b>Design Tools</b><br>
-      Figma • Adobe Creative Suite • Webflow • Framer
+</td>
+<td align="center" width="33%">
 
-      </td>
-      <td align="center" width="33%" style="background: rgba(255, 255, 255, 0.15); backdrop-filter: blur(10px); border-radius: 15px; padding: 15px; box-shadow: 0 4px 30px rgba(0,0,0,0.1); border: 1px solid rgba(255, 255, 255, 0.3);">
+🧩 **Core Skills**  
+HTML • CSS • JavaScript  
+Tailwind CSS • Bootstrap  
 
-      🧩 <b>Core Skills</b><br>
-      HTML • CSS • JavaScript<br>
-      Tailwind CSS • Bootstrap
-
-      </td>
-    </tr>
-  </table>
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -62,7 +60,6 @@ Welcome! I'm **Mika Revedezo**, a passionate UI/UX designer & developer who craf
 - Enjoy creating clean, responsive, and user-friendly interfaces 💻  
 
 ---
-
 
 <p align="center">
   💖 *“Design is intelligence made visible — and code is the art behind the magic.”* ✨
