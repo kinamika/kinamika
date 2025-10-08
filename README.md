@@ -1,6 +1,6 @@
-# 🐾 Mika Revedezo — UI/UX Designer & Developer
+# 🐾 Revedezo Alliah — UI/UX Designer & Developer
 
-Welcome! I'm Mika Revedezo, a passionate UI/UX designer & developer who crafts functional, user-centered, and visually delightful digital experiences. My work brings together creativity, purposeful design, and clean code—always with a sprinkle of feline-inspired charm. 🐱✨
+Welcome! I'm Revedezo Alliah, a passionate UI/UX designer & developer who crafts functional, user-centered, and visually delightful digital experiences. My work brings together creativity, purposeful design, and clean code—always with a sprinkle of feline-inspired charm. 🐱✨
 
 ---
 
@@ -11,12 +11,11 @@ Welcome! I'm Mika Revedezo, a passionate UI/UX designer & developer who crafts f
 - TypeScript | Node.js | PHP | MySQL
 
 **Design Tools**
-- Figma | Adobe Creative Suite | Webflow | Framer | Canva 
+- Figma | Adobe Creative Suite | Webflow | Framer
 
 **Core Skills**
 - HTML | CSS | JavaScript
-- Tailwind CSS
-- UI/UX Designing | Graphic & Visual Designing
+- Tailwind CSS | Bootstrap
 
 **Soft Skills**
 - Creativity 🌼
@@ -31,6 +30,7 @@ Welcome! I'm Mika Revedezo, a passionate UI/UX designer & developer who crafts f
 - 💼 [LinkedIn](#)
 - 🌸 [Portfolio](#)
 - 🎨 [Behance](#)
+- 💻 [GitHub](#)
 
 ---
 
@@ -41,16 +41,6 @@ Welcome! I'm Mika Revedezo, a passionate UI/UX designer & developer who crafts f
 - Enjoy creating clean, responsive, and user-friendly interfaces 💻
 - Favorite tech stack: **Next.js + Tailwind CSS + TypeScript** ⚙️
 - Cats are my spirit animal—gentle, curious, creative, and always elegant. 🐈
-
----
-
-## 🌷 Theme & Tone
-
-Elegant layouts, gentle pastel colors, and thoughtful details—my design philosophy is creative yet professional. Imagine a portfolio that feels like a warm cat nap: clean, inspiring, and just a bit magical. 🌸🐾
-
----
-
-> “Design is not just what it looks like and feels like. Design is how it works.” — Steve Jobs
 
 ---
 
