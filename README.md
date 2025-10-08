@@ -41,7 +41,7 @@ Time Management ⏰ • Adaptability 🌈
 
 <p align="center">
   <a href="https://www.linkedin.com/in/revedezoalliah/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-228B22?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-548241?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://revedezoalliah-portfolio.my.canva.site/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-969b94?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"/>
