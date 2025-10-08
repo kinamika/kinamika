@@ -27,9 +27,9 @@ Figma • Adobe Creative Suite • Webflow • Framer
 </td>
 <td align="center" width="33%">
 
-🧩 **Core Skills**  
-HTML • CSS • JavaScript  
-Tailwind CSS • Bootstrap  
+🌼 **Soft Skills**  
+Creativity 🌸 • Problem-Solving 🧠  
+Time Management ⏰ • Adaptability 🌈  
 
 </td>
 </tr>
@@ -37,19 +37,22 @@ Tailwind CSS • Bootstrap
 
 ---
 
-## 🌼 Soft Skills
-
-| Creativity 🌸 | Problem-Solving 🧠 | Time Management ⏰ | Adaptability 🌈 |
-| :------------: | :----------------: | :----------------: | :--------------: |
-
----
-
 ## 🔗 Find Me Online
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/revedezoalliah/)  
-- 🌸 [Portfolio](https://revedezoalliah-portfolio.my.canva.site/)  
-- 🎨 [Behance](https://www.behance.net/revedezalliah)  
-- 💻 [Email](revedezoalliah@gmail.com)  
+<p align="center">
+  <a href="https://www.linkedin.com/in/revedezoalliah/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://revedezoalliah-portfolio.my.canva.site/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FFB6C1?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.behance.net/revedezalliah" target="_blank">
+    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/>
+  </a>
+  <a href="mailto:revedezoalliah@gmail.com">
+    <img src="https://img.shields.io/badge/Email-FF8C00?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 ---
 
