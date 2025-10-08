@@ -10,30 +10,32 @@ Welcome! I'm **Mika Revedezo**, a passionate UI/UX designer & developer who craf
 
 ## 🎨 Top Skills
 
-<table align="center">
-<tr>
-<td align="center" width="33%">
-  
-💻 **Development**  
-Next.js • Vue.js • Laravel • Flutter  
-TypeScript • Node.js • PHP • MySQL  
+<p align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%" style="background: rgba(255, 255, 255, 0.15); backdrop-filter: blur(10px); border-radius: 15px; padding: 15px; box-shadow: 0 4px 30px rgba(0,0,0,0.1); border: 1px solid rgba(255, 255, 255, 0.3);">
 
-</td>
-<td align="center" width="33%">
+      💻 <b>Development</b><br>
+      Next.js • Vue.js • Laravel • Flutter<br>
+      TypeScript • Node.js • PHP • MySQL
 
-🎨 **Design Tools**  
-Figma • Adobe Creative Suite • Webflow • Framer  
+      </td>
+      <td align="center" width="33%" style="background: rgba(255, 255, 255, 0.15); backdrop-filter: blur(10px); border-radius: 15px; padding: 15px; box-shadow: 0 4px 30px rgba(0,0,0,0.1); border: 1px solid rgba(255, 255, 255, 0.3);">
 
-</td>
-<td align="center" width="33%">
+      🎨 <b>Design Tools</b><br>
+      Figma • Adobe Creative Suite • Webflow • Framer
 
-🧩 **Core Skills**  
-HTML • CSS • JavaScript  
-Tailwind CSS • Bootstrap  
+      </td>
+      <td align="center" width="33%" style="background: rgba(255, 255, 255, 0.15); backdrop-filter: blur(10px); border-radius: 15px; padding: 15px; box-shadow: 0 4px 30px rgba(0,0,0,0.1); border: 1px solid rgba(255, 255, 255, 0.3);">
 
-</td>
-</tr>
-</table>
+      🧩 <b>Core Skills</b><br>
+      HTML • CSS • JavaScript<br>
+      Tailwind CSS • Bootstrap
+
+      </td>
+    </tr>
+  </table>
+</p>
 
 ---
 
@@ -58,7 +60,9 @@ Tailwind CSS • Bootstrap
 - I love exploring creativity through code and bringing imaginative ideas to life with interactive designs ✨  
 - Passionate about learning new technologies and continuously improving user experiences 🌈  
 - Enjoy creating clean, responsive, and user-friendly interfaces 💻  
+
 ---
+
 
 <p align="center">
   💖 *“Design is intelligence made visible — and code is the art behind the magic.”* ✨
