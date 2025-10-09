@@ -8,7 +8,7 @@
   <a href="https://revedezoalliah-portfolio.my.canva.site/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-728C69?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://www.behance.net/revedezalliah" target="_blank">
+  <a href="https://www.behance.net/revedezoalliah" target="_blank">
     <img src="https://img.shields.io/badge/Behance-516249?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/>
   </a>
   <a href="mailto:revedezoalliah@gmail.com">
